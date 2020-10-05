@@ -7,7 +7,7 @@ There are two ways to access this project. One is to simply access it through a 
 
 The other way is to download the Adobe XD file in this repository and run it on your local machine. 
 
-**NOTE:** In order to access all the audio features of this project, you will be required to log in to your Adobe Account. 
+**NOTE:** In order to access all the audio features of this project, you will be required to log in to your Adobe Account. Feel free to reach out to ivedantshrivastava@gmail.com for any doubts or suggestions regarding this project.
 
 ## Introduction
 
