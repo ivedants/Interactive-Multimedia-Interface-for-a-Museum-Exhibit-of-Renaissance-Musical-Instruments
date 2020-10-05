@@ -17,6 +17,12 @@ Users can navigate around the interface and interact with all the instruments, l
 
 The multimedia content I created myself involves editing of all the images in the two main list pages where every image had to be cropped in a circular fashion with same dimensions so to give them a uniform look and feel. Besides this, I had to edit all the audio files downloaded from various sources from the internet and turn them into small clips for using in the interface.
 
+![alt text](https://github.com/ivedants/Interactive-Multimedia-Interface-for-a-Museum-Exhibit-of-Renaissance-Musical-Instruments/blob/master/Screenshot%201.png?raw=true)
+
+![alt text](https://github.com/ivedants/Interactive-Multimedia-Interface-for-a-Museum-Exhibit-of-Renaissance-Musical-Instruments/blob/master/Screenshot%202.png?raw=true)
+
+![alt text](https://github.com/ivedants/Interactive-Multimedia-Interface-for-a-Museum-Exhibit-of-Renaissance-Musical-Instruments/blob/master/Screenshot%203.png?raw=true)
+
 ## References
 
 1. https://www.metmuseum.org/about-the-met/curatorial-departments/musical-instruments
