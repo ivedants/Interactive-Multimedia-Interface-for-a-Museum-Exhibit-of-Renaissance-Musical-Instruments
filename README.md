@@ -3,7 +3,7 @@ This is an award-winning project featuring a collection of 30 musical instrument
 
 ## Table of Contents
 
-- [Getting Started](#getting-started]
+- [Getting Started](#getting-started)
 - [Introduction](#introduction)
 - [References](#references)
 
