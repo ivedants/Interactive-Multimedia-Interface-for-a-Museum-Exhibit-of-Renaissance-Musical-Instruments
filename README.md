@@ -1,6 +1,12 @@
 # Interactive Multimedia Interface for a Museum Exhibit of Renaissance Musical Instruments
 This is an award-winning project featuring a collection of 30 musical instruments of the Renaissance era in an interactive multimedia interface. This project won the Best Project (Public Choice) Award at the Festival of Animation - Spring 2020 at The George Washington University, Washington D.C., USA 
 
+## Table of Contents
+
+- [Getting Started](#getting-started]
+- [Introduction](#introduction)
+- [References](#references)
+
 ## Getting Started
 
 There are two ways to access this project. One is to simply access it through a web browser (Google Chrome, recommended for best performance) via the following link: https://xd.adobe.com/view/b86818ed-5ac2-486d-6dea-8ade71f27df4-ce59/?fullscreen&hints=off.
@@ -37,3 +43,7 @@ The multimedia content I created myself involves editing of all the images in th
 10. https://www.youtube.com/watch?v=I8tW06fv8sg 
 11. Google Images
 12. Wikipedia
+
+# Author
+
+Vedant Shrivastava (GitHub: https://github.com/ivedants ; Email: ivedantshrivastava@gmail.com)
