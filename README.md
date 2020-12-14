@@ -1,5 +1,13 @@
 # Interactive Multimedia Interface for a Museum Exhibit of Renaissance Musical Instruments
-This is an award-winning project made using Adobe XD featuring a collection of 30 musical instruments of the Renaissance era in an interactive multimedia interface. This project won the Best Project (Public Choice) Award at the Festival of Animation - Spring 2020 at The George Washington University, Washington D.C., USA.
+This is an award-winning project made using Adobe XD featuring a collection of 30 musical instruments of the Renaissance era in an interactive multimedia interface. 
+
+**Award**
+
+This project won the Best Project (Public Choice) Award under the "Design of Interactive Multimedia" Projects category at the Festival of Animation - Spring 2020 at The George Washington University, Washington D.C., USA.
+
+**Sister Project** 
+
+This project has a sister project which is an immersive Virtual Reality (VR) Experience of the same museum, developed using AWS Sumerian, Adobe Photoshop, and Rhinoceros 3D. Learn more: https://github.com/ivedants/Virtual-Reality-Museum-of-Renaissance-Musical-Instruments
 
 ## Table of Contents
 
